@@ -25,7 +25,7 @@ SECRET_KEY = '45e_=1p49@g^tnt-8_&d3no5@r_vwze^ocy)zufe*b*bo%7i4w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'vkraine.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'http://myfirstblooge.pythonanywhere.com/']
 
 
 # Application definition
